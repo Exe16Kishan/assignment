@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "date": "2025-05-15",
+    "title": "New Features Added to the Platform",
+    "content": "We're excited to announce several new features that will enhance your user experience.",
+    "category": "Updates"
+  },
+  {
+    "id": 2,
+    "date": "2025-05-10",
+    "title": "Maintenance Scheduled for Next Week",
+    "content": "Our platform will undergo routine maintenance on Tuesday from 2-4 AM. Expect brief downtime.",
+    "category": "Maintenance"
+  },
+  {
+    "id": 3,
+    "date": "2025-05-05",
+    "title": "User Feedback Survey Results",
+    "content": "Thank you for participating in our recent user survey. The insights have been invaluable.",
+    "category": "Feedback"
+  },
+  {
+    "id": 4,
+    "date": "2025-04-28",
+    "title": "Security Update Released",
+    "content": "We've released an important security update. Please ensure your application is up to date.",
+    "category": "Security"
+  },
+  {
+    "id": 5,
+    "date": "2025-04-20",
+    "title": "New Partnership Announcement",
+    "content": "We're thrilled to announce our new partnership with a leading technology provider.",
+    "category": "Business"
+  },
+  {
+    "id": 6,
+    "date": "2025-04-15",
+    "title": "User Interface Improvements",
+    "content": "We've made several UI improvements based on your feedback to enhance usability.",
+    "category": "Updates"
+  },
+  {
+    "id": 7,
+    "date": "2025-04-08",
+    "title": "Mobile App Now Available",
+    "content": "Our mobile application is now available for download on iOS and Android platforms.",
+    "category": "Release"
+  },
+  {
+    "id": 8,
+    "date": "2025-04-01",
+    "title": "Community Event Next Month",
+    "content": "Join us for our virtual community event where we'll showcase upcoming features.",
+    "category": "Events"
+  },
+  {
+    "id": 9,
+    "date": "2025-03-25",
+    "title": "Documentation Updates",
+    "content": "We've updated our documentation to include more examples and clearer instructions.",
+    "category": "Updates"
+  },
+  {
+    "id": 10,
+    "date": "2025-03-18",
+    "title": "Performance Enhancements Implemented",
+    "content": "Recent updates have improved loading times and overall application performance.",
+    "category": "Updates"
+  },
+  {
+    "id": 11,
+    "date": "2025-03-10",
+    "title": "New Tutorial Series Released",
+    "content": "Check out our new tutorial series designed to help you get the most from our platform.",
+    "category": "Training"
+  },
+  {
+    "id": 12,
+    "date": "2025-03-05",
+    "title": "Customer Support Hours Extended",
+    "content": "Our customer support is now available for extended hours to better serve global users.",
+    "category": "Support"
+  },
+  {
+    "id": 13,
+    "date": "2025-02-25",
+    "title": "Annual Conference Date Announced",
+    "content": "Mark your calendars! Our annual conference will be held on September 15-17, 2025.",
+    "category": "Events"
+  },
+  {
+    "id": 14,
+    "date": "2025-02-18",
+    "title": "API Version 2.0 Released",
+    "content": "Our new API version includes more endpoints and improved documentation.",
+    "category": "Release"
+  },
+  {
+    "id": 15,
+    "date": "2025-02-10",
+    "title": "Team Expansion Announcement",
+    "content": "We're excited to welcome five new developers to our growing team.",
+    "category": "Business"
+  }
+]
